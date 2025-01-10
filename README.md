@@ -37,7 +37,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novellis98&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=novellis98&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?username=novellis98&theme=radical)
 
 ---
 
