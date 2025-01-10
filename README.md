@@ -31,5 +31,15 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=novellis98&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=novellis98&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=novellis98&theme=radical)
+
+---
+
 ⭐ If you find my projects helpful, feel free to leave a **star**!  
 Collaborating with the community is my priority, so don’t hesitate to reach out.
