@@ -13,23 +13,7 @@
 
 ## 🛠️ Skills
 **Languages & Frameworks**:
-<div>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" height="30"/>
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" height="30"/>
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=flat&logo=redux&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwindcss&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Sass-%23CC6699.svg?style=flat&logo=sass&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Supabase-%234A61B0.svg?style=flat&logo=supabase&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/PHP-%238777BB.svg?style=flat&logo=php&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=flat&logo=java&logoColor=white" height="30"/>
-</div>
+<div> <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" height="30"/> <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" height="30"/> <img src="https://img.shields.io/badge/PHP-%238777BB.svg?style=flat&logo=php&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Java-%23007396.svg?style=flat&logo=java&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=flat&logo=postgresql&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwindcss&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=flat&logo=redux&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Sass-%23CC6699.svg?style=flat&logo=sass&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=flat&logo=bootstrap&logoColor=white" height="30"/> </div>
 
 ---
 
