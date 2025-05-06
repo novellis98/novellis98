@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 - 👨‍💻 **Full-stack developer** with experience in modern technologies and a focus on performance and user experience.
-- 💡 Passionate about **JavaScript**, **React**, **Node.js**, **SQL**, and cutting-edge web tools.
+- 💡 Passionate about **JavaScript**, **React**, **Java**, **SQL**, and cutting-edge web tools.
 - 🔍 Always eager to explore new technologies and tackle challenging projects.
 
 ---
@@ -17,11 +17,6 @@
 
 ---
 
-## 🌱 Currently Learning
-- Deepening knowledge of **PHP**, **SQL**, and advanced full-stack solutions.
-- Front-end performance optimization and database management techniques.
-
----
 
 ## 📊 GitHub Stats
 
